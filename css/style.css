@@ -1,4 +1,20 @@
 body {
+    font-family: Roboto;
+    color: white;
+    background-color: gainsboro;
+}
+
+h1 {
+    color: black;
     font-family: monospace;
-    background-color: rgb(115, 100, 100)
+}
+
+p1 {
+    color: chocolate;
+    font-family: monospace
+}
+
+p3 {
+    color: chocolate;
+    font-family: monospace
 }
