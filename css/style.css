@@ -1,20 +1,23 @@
 body {
-    font-family: Roboto;
+    font-family: sans-serif;
     color: white;
-    background-color: gainsboro;
+    background-color: #b6b6b6;
 }
 
-h1 {
+h1, h2, h3 {
     color: black;
     font-family: monospace;
 }
 
-p1 {
-    color: chocolate;
+
+p3 {
+    color: antiquewhite;
     font-family: monospace
 }
 
-p3 {
-    color: chocolate;
-    font-family: monospace
+a {
+    color: #3366ff
+}
+p#niceIDbro {
+    color: black
 }
